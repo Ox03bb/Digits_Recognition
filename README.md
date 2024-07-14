@@ -1,6 +1,6 @@
 # Digits Recognition
 
-![sklearn](https://img.shields.io/badge/-sklearn-F89C3F?style=flat&logo=scikit%20learn&logoColor=white&labelColor=3294C7) ![FastApi](https://img.shields.io/badge/-FastApi-029385?style=flat&logo=fastapi&logoColor=white)
+![Tensorflow](https://img.shields.io/badge/-Tensorflow-ff6f00?style=flat&logo=tensorflow&logoColor=white) ![Keras](https://img.shields.io/badge/-Keras-d00000?style=flat&logo=keras&logoColor=white) ![sklearn](https://img.shields.io/badge/-sklearn-F89C3F?style=flat&logo=scikit%20learn&logoColor=white&labelColor=3294C7) ![FastApi](https://img.shields.io/badge/-FastApi-029385?style=flat&logo=fastapi&logoColor=white)
 
 ## Overview
 This project is an implementation of a digits recognition system using the XGBoost algorithm. The system achieves a recognition accuracy of 95%. An API for this project is being developed using FastAPI.The project is currently under development 
